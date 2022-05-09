@@ -1,5 +1,4 @@
 import html2canvas from "html2canvas";
-import { image } from "html2canvas/dist/types/css/types/image";
 import { Camera, Trash } from "phosphor-react";
 import { useState } from "react";
 import { Loading } from "../Loading";
